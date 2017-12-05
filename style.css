@@ -1,0 +1,30 @@
+h1 {
+	background-color: #eee;
+	position: center;
+	font-color: red;
+	font-size: 28px;
+}
+
+h2 {
+	font-size: 28px;
+}
+
+
+.container {
+	width: 1024px;
+	position: center;
+}
+
+
+#main-bio {
+
+}
+
+#contact-info {
+
+}
+
+#bio-image {
+
+}
+
